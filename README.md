@@ -4,9 +4,9 @@ Full installation packages for the F16V-PoBit DCS World F-16C mod.
 
 ## Download
 
-**[Download F16V-PoBit 2.9 — Complete Package (R3)](https://github.com/Jonitane/F16V-PoBit-Downloads/releases/download/v2.9-r3/POBIT_F16V-V2.9-R3.zip)**
+**[Download F16V-PoBit 2.92 — Complete Package](https://github.com/Jonitane/F16V-PoBit-Downloads/releases/download/v2.92/POBIT_F16V-V2.92-R2.zip)**
 
-[Release page](https://github.com/Jonitane/F16V-PoBit-Downloads/releases/tag/v2.9-r3) · [All releases](https://github.com/Jonitane/F16V-PoBit-Downloads/releases)
+[Release page](https://github.com/Jonitane/F16V-PoBit-Downloads/releases/tag/v2.92) · [All releases](https://github.com/Jonitane/F16V-PoBit-Downloads/releases)
 
 ## Installation
 
@@ -14,7 +14,7 @@ Full installation packages for the F16V-PoBit DCS World F-16C mod.
 2. Run the included `F16V-PoBit.exe` installer.
 3. Follow the bundled English `User Guide.html` for installation and operation.
 
-The package includes Installer 1.7, Core, DataLink, component resources and the English user guide.
+The package includes the installer, Core, DataLink, component resources and the English user guide.
 
 ## Checksum
 
