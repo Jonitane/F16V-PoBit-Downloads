@@ -4,7 +4,7 @@ Full installation packages for the F16V-PoBit DCS World F-16C mod.
 
 ## Download
 
-**[Download F16V-PoBit 2.92 — Complete Package](https://github.com/Jonitane/F16V-PoBit-Downloads/releases/download/v2.92/POBIT_F16V-V2.92-R2.zip)**
+**[Download F16V-PoBit 2.92 — Complete Package](https://github.com/Jonitane/F16V-PoBit-Downloads/releases/download/v2.92/POBIT_F16V-V2.92-R3.zip)**
 
 [Release page](https://github.com/Jonitane/F16V-PoBit-Downloads/releases/tag/v2.92) · [All releases](https://github.com/Jonitane/F16V-PoBit-Downloads/releases)
 
@@ -18,4 +18,4 @@ The package includes the installer, Core, DataLink, component resources and the 
 
 ## Checksum
 
-The release provides `SHA256SUMS.txt` for the complete package.
+Verify the current ZIP using its [SHA-256 checksum](https://github.com/Jonitane/F16V-PoBit-Downloads/releases/download/v2.92/SHA256SUMS-2.92-R3.txt).
