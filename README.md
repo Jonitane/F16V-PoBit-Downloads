@@ -16,6 +16,8 @@ Full installation packages for the F16V-PoBit DCS World F-16C mod.
 
 The package includes the installer, Core, DataLink, component resources and the English user guide.
 
+https://discord.gg/vjwfFEd3Ps
+
 ## Checksum
 
 Verify the current ZIP using its [SHA-256 checksum](https://github.com/Jonitane/F16V-PoBit-Downloads/releases/download/v2.94/SHA256SUMS-2.94.txt).
